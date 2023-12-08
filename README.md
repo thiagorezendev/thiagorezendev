@@ -31,8 +31,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-images-1.medium.com/v2/resize:fit:195/1*Vd5HRW3qppg1IS5egbFeow@2x.jpeg"/>](https://unimontes.br/)
 **Estagiário no setor de Administração de Redes** \
 [**Unimontes**](https://unimontes.br/) • 6-hours \
-Competências: `Protocolo de internet (IP)`, `Servidor Windows`, `DHCP`, `Pilhas de protocolos TCP/IP`, `Firewalls`, `Proxy` 
-<br/> `Mikrotik`, `Active Directory`, `Servidor Linux`, `Suporte técnico`, `Linux`
+Competências: `Protocolo de internet (IP)`, `Servidor Windows`, `DHCP`, `Pilhas de protocolos TCP/IP`, `Firewalls`
+<br/> `Mikrotik`, `Active Directory`, `Servidor Linux`, `Suporte técnico`, `Linux`, `Proxy`
 
 ##
 
