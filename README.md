@@ -42,9 +42,9 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-images-1.medium.com/v2/resize:fit:195/1*Vd5HRW3qppg1IS5egbFeow@2x.jpeg"/>](https://unimontes.br/)
 **Sistemas de Informação** \
 [**Unimontes**](https://unimontes.br/) \
-Linguagens & Tecnologias : `C (linguagem de programação)`, `C++`, `DHCP`, `Rede de computadores`, `Sistemas de informação`, `Banco de dados`
+Linguagens & Tecnologias : `C (linguagem de programação)`, `C++`, `DHCP`, `Rede de computadores`, `Sistemas de informação`
 <br/> `Estrutura de dados`, `Gestão de projetos`, `Raciocínio lógico`, `MySQL`, `Programação orientada a objetos (POO)` , `Java`
-<br/> `Inglês`, `Habilidades analíticas`, `Cálculo diferencial e integral`, `Cálculo numérico`, `Grafos` , `Engenharia de software`
+<br/> `Inglês`, `Habilidades analíticas`, `Cálculo diferencial e integral`, `Cálculo numérico`, `Grafos` , `Engenharia de software`, `Banco de dados`
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/thiago-rezende-398707248) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
