@@ -1,16 +1,56 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<!--
-**thiagorezendev/thiagorezendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, Devs!! 👋
+### O meu nome é Thiago Rezende, seja bem-vindo(a) ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Here are some ideas to get you started:
+- 🔰  Sou Mineiro
+- ⚡ Apaixonado por Futebol e Tecnologia
+- 🧠 Estudante de Sistemas de Informação na Universidade Estadual de Montes Claros
+- 🏦 Atualmente faço estágio na Diretoria de Tecnologia e Informação da Universidade Estadual de Montes Claros
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+#### Estou aprendendo sobre:
+[![My Skills](https://skillicons.dev/icons?i=java,py,linux,laravel,php)](https://skillicons.dev)
+
+##
+
+#### Ferramentas que uso:
+[![My Skills](https://skillicons.dev/icons?i=c,git,github,grafana,java,linkedin,linux,mysql,replit,visualstudio)](https://skillicons.dev)
+
+##
+
+#### Como entrar em contato comigo:
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thiago-rezende-398707248)
+
+##
+
+#### Experiência Profissional:
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+
+**Estagiário no setor de Administração de Redes** \
+[**Unimontes**](https://unimontes.br/) • 6-hours \
+Competências: `Protocolo de internet (IP)`, `Servidor Windows`, `DHCP`, `Pilhas de protocolos TCP/IP`, `Firewalls`, `Proxy` 
+<br/> `Mikrotik`, `Active Directory`, `Servidor Linux`, `Suporte técnico`, `Linux`
+
+##
+
+#### Formação Acadêmica:
+Na visão geral abaixo você encontrará minha formação acadêmica:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fconexao.unimontes.br%2F&psig=AOvVaw1pUIE7U8zEuzLW3WuEsl_l&ust=1702149350507000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjSus_GgIMDFQAAAAAdAAAAABAE"/>](https://unimontes.br/)
+**Sistemas de Informação** \
+[**Unimontes**](https://unimontes.br/) \
+Linguagens & Tecnologias : `C (linguagem de programação)`, `C++`, `DHCP`, `Rede de computadores`, `Sistemas de informação`, `Banco de dados`
+<br/> `Estrutura de dados`, `Gestão de projetos`, `Raciocínio lógico`, `MySQL`, `Programação orientada a objetos (POO)` , `Java`
+<br/> `Inglês`, `Habilidades analíticas`, `Cálculo diferencial e integral`, `Cálculo numérico`, `Grafos` , `Engenharia de software`
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/thiago-rezende-398707248) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+##
+
+#### Estatísticas:
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorezendev&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=thiagorezendev&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=thiagorezendev&amp;theme=radical"/>](https://github.com/)
