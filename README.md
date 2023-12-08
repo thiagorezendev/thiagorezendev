@@ -28,7 +28,7 @@
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-images-1.medium.com/v2/resize:fit:195/1*Vd5HRW3qppg1IS5egbFeow@2x.jpeg"/>](https://unimontes.br/)
 **Estagiário no setor de Administração de Redes** \
 [**Unimontes**](https://unimontes.br/) • 6-hours \
 Competências: `Protocolo de internet (IP)`, `Servidor Windows`, `DHCP`, `Pilhas de protocolos TCP/IP`, `Firewalls`, `Proxy` 
@@ -39,7 +39,7 @@ Competências: `Protocolo de internet (IP)`, `Servidor Windows`, `DHCP`, `Pilhas
 #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fconexao.unimontes.br%2F&psig=AOvVaw1pUIE7U8zEuzLW3WuEsl_l&ust=1702149350507000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjSus_GgIMDFQAAAAAdAAAAABAE"/>](https://unimontes.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-images-1.medium.com/v2/resize:fit:195/1*Vd5HRW3qppg1IS5egbFeow@2x.jpeg"/>](https://unimontes.br/)
 **Sistemas de Informação** \
 [**Unimontes**](https://unimontes.br/) \
 Linguagens & Tecnologias : `C (linguagem de programação)`, `C++`, `DHCP`, `Rede de computadores`, `Sistemas de informação`, `Banco de dados`
