@@ -10,13 +10,23 @@
 
 ##
 
-#### Estou aprendendo sobre:
-[![My Skills](https://skillicons.dev/icons?i=java,py,linux,laravel,php)](https://skillicons.dev)
+<h3 align="center">Estou aprendendo sobre:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,linux,laravel,php,bootstrap&perline=5" />
+  </a>
+</p>
 
 ##
 
-#### Ferramentas que uso:
-[![My Skills](https://skillicons.dev/icons?i=c,git,github,grafana,java,linkedin,linux,mysql,replit,visualstudio)](https://skillicons.dev)
+<h3 align="center">Ferramentas que uso:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,git,github,grafana,java,linkedin,linux,mysql,replit,visualstudio,eclipse,figma&perline=5" />
+  </a>
+</p>
 
 ##
 
