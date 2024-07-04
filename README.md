@@ -47,7 +47,7 @@ Competências: `Protocolo de internet (IP)`, `Servidor Windows`, `DHCP`, `Pilhas
 ##
 
 #### Formação Acadêmica:
-Na visão geral abaixo você encontrará minha formação acadêmica:
+Na visão geral abaixo você encontrará minha formação acadêmica (graduando):
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-images-1.medium.com/v2/resize:fit:195/1*Vd5HRW3qppg1IS5egbFeow@2x.jpeg"/>](https://unimontes.br/)
 **Sistemas de Informação** \
