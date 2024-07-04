@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,java,py,js,linux,laravel,php,bootstrap&perline=3" />
+    <img src="https://skillicons.dev/icons?i=django,java,py,js,linux,laravel,php,bootstrap&perline=4" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,html,css,c,git,github,grafana,java,linkedin,linux,mysql,replit,visualstudio,eclipse,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=,html,css,c,git,github,grafana,java,linkedin,linux,mysql,replit,visualstudio,eclipse,figma&perline=7" />
   </a>
 </p>
 
