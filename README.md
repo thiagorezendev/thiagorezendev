@@ -42,7 +42,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Estagiário no setor de Administração de Redes** \
 [**Unimontes**](https://unimontes.br/) • 6-hours \
 Competências: `Protocolo de internet (IP)`, `Servidor Windows`, `DHCP`, `Pilhas de protocolos TCP/IP`, `Firewalls`
-<br/> `Mikrotik`, `Active Directory`, `Servidor Linux`, `Suporte técnico`, `Linux`, `Proxy`
+<br/> `Mikrotik`, `Active Directory`, `Servidor Linux`, `Suporte técnico`, `Linux`, `Proxy`, `Configuração de Switch`
 
 ##
 
@@ -54,7 +54,8 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 [**Unimontes**](https://unimontes.br/) \
 Linguagens & Tecnologias : `C (linguagem de programação)`, `C++`, `DHCP`, `Rede de computadores`, `Sistemas de informação`
 `Estrutura de dados`, `Gestão de projetos`, `Raciocínio lógico`, `MySQL`, `Programação orientada a objetos (POO)` , `Java`
-`Inglês`, `Habilidades analíticas`, `Cálculo diferencial e integral`, `Cálculo numérico`, `Grafos` , `Engenharia de software`, `Banco de dados`
+`Inglês`, `Habilidades analíticas`, `Cálculo diferencial e integral`, `Cálculo numérico`, `Grafos` , `Engenharia de software`, `Banco de dados`, `Laravel`, `HTML e CSS`
+`Manutenção de Software`, `Active Directory`, `Windows Server`, `Microsserviços`
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/thiago-rezende-398707248) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
