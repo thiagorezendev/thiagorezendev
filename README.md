@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,html,css,c,git,github,grafana,java,linkedin,linux,mysql,replit,visualstudio,eclipse,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,git,github,grafana,java,linkedin,linux,mysql,replit,visualstudio,eclipse,figma&perline=7" />
   </a>
 </p>
 
