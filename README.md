@@ -63,5 +63,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/thiago-rezende-
 
 #### Estatísticas:
 
+<p align="center">
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=thiagorezendev&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorezendev&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+</p>
