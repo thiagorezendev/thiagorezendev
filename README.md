@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<div class="text-center">## Hi, I'm Thiago👋</div>
+<div class="text-center">
+  <p>Hi, I'm Thiago👋</p>
+</div>
 ### O meu nome é Thiago Rezende, seja bem-vindo(a) ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou Mineiro
