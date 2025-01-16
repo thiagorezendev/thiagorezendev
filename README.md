@@ -60,9 +60,8 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/thiago-rezende-39870724
 
 ##
 
-#### Statistics:
-
 <div align="center">
+  <h4>Statistics</h4>
   <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=thiagorezendev&show_icons=true&include_all_commits=true&theme=dark"/>
   <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorezendev&layout=compact&langs_count=7&theme=dark"/>
 </div>
