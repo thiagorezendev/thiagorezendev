@@ -6,14 +6,15 @@
 
 ### A passionate and enthusiastic Software Engineering student from Brazil <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou Mineiro
-- ⚡ Apaixonado por Futebol e Tecnologia
-- 🧠 Estudante de Sistemas de Informação na Universidade Estadual de Montes Claros
-- 🏦 Atualmente faço estágio na Diretoria de Tecnologia e Informação da Universidade Estadual de Montes Claros
+- 🎈 I'm currently working on my degree and as an intern at Unimontes' DTI
+- 🍃 I’m learning Web Development with Laravel 🐘 and exploring Network Infrastructure
+- 🤝 I’m eager to contribute to innovative and collaborative projects
+- 📬 How to reach me: Let’s connect through LinkedIn!
+- 🎲 What I like to do: Coding, gaming, and staying active with workouts
 
 ##
 
-<h3 align="center">Estou aprendendo sobre:</h3>
+<h3 align="center">I'm learning about:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,7 +24,7 @@
 
 ##
 
-<h3 align="center">Ferramentas que uso:</h3>
+<h3 align="center">Tools I use:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,38 +34,35 @@
 
 ##
 
-#### Como entrar em contato comigo:
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thiago-rezende-398707248)
-
-##
-
-#### Experiência Profissional:
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+#### Professional Experience:
+Below is an overview of my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-images-1.medium.com/v2/resize:fit:195/1*Vd5HRW3qppg1IS5egbFeow@2x.jpeg"/>](https://unimontes.br/)
-**Estagiário no setor de Administração de Redes** \
+**Intern at the Network Administration Department** \
 [**Unimontes**](https://unimontes.br/) • 6-hours \
-Competências: `Protocolo de internet (IP)`, `Servidor Windows`, `DHCP`, `Pilhas de protocolos TCP/IP`, `Firewalls`
-<br/> `Mikrotik`, `Active Directory`, `Servidor Linux`, `Suporte técnico`, `Linux`, `Proxy`, `Configuração de Switch`
+Skills: `Internet Protocol (IP)`, `Windows Server`, `DHCP`, `TCP/IP Protocol Stacks`, `Firewalls`
+<br/> `Mikrotik`, `Active Directory`, `Linux Server`, `Technical Support`, `Linux`, `Proxy`, `Switch Configuration`
 
 ##
 
-#### Formação Acadêmica:
-Na visão geral abaixo você encontrará minha formação acadêmica (graduando):
+#### Academic Background:
+Below is an overview of my academic background (undergraduate):
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-images-1.medium.com/v2/resize:fit:195/1*Vd5HRW3qppg1IS5egbFeow@2x.jpeg"/>](https://unimontes.br/)
-**Sistemas de Informação** \
+**Information Systems** \
 [**Unimontes**](https://unimontes.br/) \
-Linguagens & Tecnologias : `C (linguagem de programação)`, `C++`, `DHCP`, `Rede de computadores`, `Sistemas de informação`
-`Estrutura de dados`, `Gestão de projetos`, `Raciocínio lógico`, `MySQL`, `Programação orientada a objetos (POO)` , `Java`
-`Inglês`, `Habilidades analíticas`, `Cálculo diferencial e integral`, `Cálculo numérico`, `Grafos` , `Engenharia de software`, `Banco de dados`, `Laravel`, `HTML e CSS`
-`Manutenção de Software`, `Active Directory`, `Windows Server`, `Microsserviços`
+Languages & Technologies : `C (programming language)`, `C++`, `DHCP`, `Computer Networks`, `Information Systems`,
+`Data Structures`, `Project Management`, `Logical Reasoning`, `MySQL`, `Object-Oriented Programming (OOP)` , `Java`,
+`English`, `Analytical Skills`, `Differential and Integral Calculus`, `Numerical Calculus`, `Graphs`, `Software Engineering`, `Databases`, `Laravel`, `HTML & CSS`
+`Software Maintenance`, `Active Directory`, `Windows Server`, `Microservices`
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/thiago-rezende-398707248) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Please find me on [LinkedIn](https://www.linkedin.com/in/thiago-rezende-398707248) for a more detailed description of my work experience, education, and certification.
 
 ##
 
-#### Estatísticas:
+#### Statistics:
 
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=thiagorezendev&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorezendev&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+<div align="center">
+  [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=thiagorezendev&show_icons=true&include_all_commits=true&theme=dark"/>](https://github.com/)
+  [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorezendev&layout=compact&langs_count=7&theme=dark"/>](https://github.com/)
+</div>
