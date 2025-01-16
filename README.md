@@ -34,7 +34,7 @@
 
 ##
 
-#### Professional Experience:
+### Professional Experience:
 Below is an overview of my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-images-1.medium.com/v2/resize:fit:195/1*Vd5HRW3qppg1IS5egbFeow@2x.jpeg"/>](https://unimontes.br/)
@@ -45,7 +45,7 @@ Skills: `Internet Protocol (IP)`, `Windows Server`, `DHCP`, `TCP/IP Protocol Sta
 
 ##
 
-#### Academic Background:
+### Academic Background:
 Below is an overview of my academic background (undergraduate):
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-images-1.medium.com/v2/resize:fit:195/1*Vd5HRW3qppg1IS5egbFeow@2x.jpeg"/>](https://unimontes.br/)
@@ -61,7 +61,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/thiago-rezende-39870724
 ##
 
 <div align="center">
-  <h4>Statistics</h4>
+  <h3>Statistics:</h3>
   <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=thiagorezendev&show_icons=true&include_all_commits=true&theme=dark"/>
   <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorezendev&layout=compact&langs_count=7&theme=dark"/>
 </div>
